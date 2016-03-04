@@ -13,10 +13,7 @@
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
 [Rr]eleases/
-x64/
-x86/
 bld/
 [Bb]in/
 [Oo]bj/
@@ -118,9 +115,6 @@ AutoTest.Net/
 # Web workbench (sass)
 .sass-cache/
 
-# Installshield output folder
-[Ee]xpress/
-
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/
 DocProject/Help/*.HxT
@@ -183,7 +177,6 @@ ClientBin/
 *.dbproj.schemaview
 *.pfx
 *.publishsettings
-node_modules/
 orleans.codegen.cs
 
 # RIA/Silverlight projects
